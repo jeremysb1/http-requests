@@ -1,3 +1,3 @@
 # Request Google Homepage Data
 
-Used Node to get Google Homepage data outside the browser.
+Used Node https module to get Google Homepage data in the Node runtime environment.
